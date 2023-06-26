@@ -35,3 +35,17 @@
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/entl)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/entl)
+
+<details>
+<p align="center">
+  <a href="https://github.com/entl">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=entl&theme=transparent" />
+  </a>
+  <a href="https://github.com/entl">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=entl&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/entl">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=entl&theme=transparent" />
+  </a>
+</p>
+</details>
