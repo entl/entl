@@ -6,6 +6,7 @@
         My name is Maksym<br>
         I'm a second year student at <a href="https://www.aru.ac.uk">ARU</a><br>
         Currently, I am mastering my skills in backend development<br>
+        🔭 I’m currently working on <a href="https://github.com/entl/Huchno">Huchno</a><br>
         Open to collaborating on interesting and innovative projects<br>
     </i><br>
     <a href="https://www.linkedin.com/in/maksym-vorobyov/">
