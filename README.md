@@ -25,7 +25,7 @@
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/entl)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/entl)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/entl)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/entl)
+[![SQL](https://img.shields.io/badge/postgres-black?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/entl)
 
 ### Technologies & Frameworks
 [![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi)](https://github.com/entl)
