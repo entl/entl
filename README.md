@@ -47,7 +47,7 @@
 [![MacOS](https://shields.io/badge/MacOS-black?logo=Apple&style=for-the-badge)](https://github.com/entl)
 
 
-<details>
+<details open>
 <p align="center">
   <a href="https://github.com/entl">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=entl&theme=transparent" />
