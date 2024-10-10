@@ -4,7 +4,7 @@
     <b>Welcome to my profile!</b><br><br>
     <i>
         My name is Maksym<br>
-        I'm a second year student at <a href="https://www.aru.ac.uk">ARU</a><br>
+        I'm a final year student at <a href="https://www.aru.ac.uk">ARU</a><br>
         Currently, I'm mastering backend development with Python, GoLang, and Java<br>
         Open to collaborating on interesting and innovative projects 💻 <br>
 <!--         🔭 I’m currently working on <a href="https://github.com/entl/Huchno">Huchno</a><br> -->
